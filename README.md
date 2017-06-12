@@ -1,10 +1,10 @@
-#Elixir Exercise.
+# Elixir Exercise.
 
 Create a mix project and include the below implementation in an organized way. Provide the user the posibility to access at least 5 of the functions/features developed in any of modules. 
 
 When Mix project start all test must be run, you may need to create a custom mix task.
 
-Try to use
+### Try to use
 * Collections. List/Map/Records
 * Enum
 * Pattern Matching, |>, 
